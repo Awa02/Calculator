@@ -72,7 +72,7 @@ class Calculator {
             case '-' : 
             computation = prev - current
         break
-            case 'x' : 
+            case '×':
             computation = prev * current
         break
             case '÷' : 
